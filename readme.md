@@ -1,6 +1,6 @@
 # answer-onstartups
 
-> Static mirror of the December 2013 Answers OnArray data dump
+> Static mirror of the December 2013 Answers OnStartups data dump
 
 See <http://answers-onstartups.tlvince.com>.
 
