@@ -1,0 +1,27 @@
+{
+  "name": "answers-onstartups",
+  "version": "0.1.0",
+  "description": "Static mirror of the Answers OnStartups data dump",
+  "main": "server.coffee",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "answers",
+    "onstartups",
+    "stackexchange",
+    "startups"
+  ],
+  "author": "Tom Vincent <npm@tlvince.com> (http://tlvince.com/)",
+  "license": "MIT",
+  "dependencies": {
+    "coffee-script": "~1.6.3",
+    "connect": "~2.12.0",
+    "iced-coffee-script": "~1.6.3-j"
+  },
+  "devDependencies": {
+    "cheerio": "~0.13.1",
+    "node-dir": "~0.1.5",
+    "underscore": "~1.5.2"
+  }
+}
